@@ -6,7 +6,7 @@ https://learn.microsoft.com/en-us/windows/package-manager/winget/upgrade
 
 CMD
 ```CMD
-winget upgrade --all
+winget upgrade --all --include-unknown
 ```
 
 ## Restart windows services
